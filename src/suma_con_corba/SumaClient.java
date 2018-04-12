@@ -1,4 +1,3 @@
-package suma_con_corba;
 import java.util.Scanner;
 import sumaApp.*;
 //importar la interfaz idl
